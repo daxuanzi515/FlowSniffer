@@ -1,0 +1,27 @@
+
+	Find these mac address:
+	00:00:00:00:00:00
+	ff:ff:ff:ff:ff:ff
+	00:0c:29:ba:5a:e2
+	e2:68:ff:2d:77:1f
+
+
+	The statistical  information
+	varibale	 values
+	StartTime	 Sun Mar 12 16:54:14 2023
+	EndTime		 Sun Mar 12 16:54:22 2023
+	MAC Broad	 4
+	MAC Short	 4
+	MAC Long	 0
+	MAC Byte	 1204
+	MAC Packet	 14
+	Bit/s		 1200
+	MAC ByteSpeed	 150
+	MAC PacketSpeed  1
+	IP Broadcast	 0
+	IP Byte		 544
+	IP Packet	 8
+	UDP Packet	 0
+	ICMP Packet	 8
+	ICMP Redirect	 0
+	ICMP Destination 0

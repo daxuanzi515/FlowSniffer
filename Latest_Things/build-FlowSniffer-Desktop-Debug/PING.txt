@@ -1,0 +1,17 @@
+ PING STARTING!
+PING 192.168.43.218 (192.168.43.218) 24(52) bytes of data.
+32 byte from 192.168.43.218 : icmp_seq=1 ttl=128 time=0.4ms
+32 byte from 192.168.43.218 : icmp_seq=2 ttl=128 time=0.5ms
+32 byte from 192.168.43.218 : icmp_seq=3 ttl=128 time=0.5ms
+32 byte from 192.168.43.218 : icmp_seq=4 ttl=128 time=0.5ms
+32 byte from 192.168.43.218 : icmp_seq=5 ttl=128 time=0.4ms
+32 byte from 192.168.43.218 : icmp_seq=6 ttl=128 time=0.5ms
+32 byte from 192.168.43.218 : icmp_seq=7 ttl=128 time=0.5ms
+32 byte from 192.168.43.218 : icmp_seq=8 ttl=128 time=0.6ms
+32 byte from 192.168.43.218 : icmp_seq=9 ttl=128 time=0.6ms
+32 byte from 192.168.43.218 : icmp_seq=10 ttl=128 time=0.6ms
+32 byte from 192.168.43.218 : icmp_seq=11 ttl=128 time=0.2ms
+
+--- 192.168.43.218 ping statistics ---
+11 packets transmitted, 11 received, 0% packet loss, time 10014 ms
+rtt min/avg/max = 0.243/0.484/0.592 ms
