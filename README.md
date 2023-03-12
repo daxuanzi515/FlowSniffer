@@ -20,3 +20,5 @@ My Experiment for University work anyway it is a rough project but it may help y
 5.You need bash knowledge to use the funtion of sniffering, because I use the bash scripts to make C and QT suitable.
 
 Some Chinese words maybe, I use English and Chinese at the same time, but you can search for them please.
+
+Or you can go to the website to see more details: https://blog.csdn.net/daxuanzi515?spm=1011.2266.3001.5343
