@@ -1,5 +1,3 @@
-*.c linguist-language=c
-*.h linguist-language=c
-*.cpp linguist-language=cpp
-*.hpp linguist-language=cpp
+*.c linguist-language=C
+*.cpp linguist-language=C++
 
